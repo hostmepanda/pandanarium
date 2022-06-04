@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/hostmepanda/pandanarium/issues"
   },
-  "homepage": "https://github.com/hostmepanda/pandanarium#readme"
+  "homepage": "https://github.com/hostmepanda/pandanarium#readme",
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "phaser": "^3.55.2"
+  }
 }
